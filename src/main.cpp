@@ -25,7 +25,7 @@ String adminUID = "DEADBEEF"; // Special card to show tally
 // ================= Candidates =================
 #define TOTAL_CANDIDATES 6
 String candidates[TOTAL_CANDIDATES] = {
-  "Alice", "Bob", "Charlie", "David", "Eva", "bhuwan"
+  "Alice", "Bob", "Charlie", "David", "Eva", "Pramesh"
 };
 int votes[TOTAL_CANDIDATES] = {0};
 
